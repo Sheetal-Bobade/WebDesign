@@ -20,7 +20,8 @@ body{
     font-weight: 500;
     line-height: 19.5px;
     text-align: left;
-    color: #27364B;
+    /*color: #27364B;*/
+    color: red;
     text-decoration: none;
     margin-left: 40px;
 }
