@@ -11,7 +11,7 @@ function Header(){
         <div>
             <nav className="menu">
                 <a href="/">Home</a>
-                <a href="/">About Us</a>
+                <a href="/about-us">About Us</a>
                 <a href="/">Products & Services</a>
                 <a href="/">News</a>
                 <a href="/">Career</a>

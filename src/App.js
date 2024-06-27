@@ -1,14 +1,14 @@
 
 import './Custom.css';
 import Header from './Component/Header';
-import Home from './Home';
+import Allroutes from './Router';
 import Footer from './Component/Footer';
 
 function App() {
   return (
     <div className="App">
      <Header/>
-     <Home/>
+     <Allroutes/>
      <Footer/> 
     </div>
   );

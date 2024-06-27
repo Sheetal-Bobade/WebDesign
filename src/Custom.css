@@ -592,3 +592,19 @@ footer .section-text.white {
 footer {
     background: #F6F8FC;
 }
+
+.home-main-section.about {
+    height: 650px;
+}
+
+.home-main-section.about .slide.home-main-text.active {
+    width: 58%;
+}
+
+.home-main-overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #00000066;
+}
