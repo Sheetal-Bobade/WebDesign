@@ -1,14 +1,14 @@
 //import React, { useState, useEffect } from "react";
-import logo from "../assets/triangle.svg";
-import bg from "../assets/bg-2.mp4";
+import logo from "./assets/triangle.svg";
+import bg from "./assets/bg-2.mp4";
 import { Button } from 'react-bootstrap';
-import img1 from '../assets/img1.png';
-import Award from "../Component/Award";
-import News from "../Component/News";
-import vectorbg1 from "../assets/vector-bg-1.png";
-import vectorbg2 from "../assets/vector-bg-2.png";
-import vectorbg3 from "../assets/vector-bg-3.png";
-import vectorbg4 from "../assets/vector-bg-4.png"
+import img1 from './assets/img1.png';
+import Award from "./Component/Award";
+import News from "./Component/News";
+import vectorbg1 from "./assets/vector-bg-1.png";
+import vectorbg2 from "./assets/vector-bg-2.png";
+import vectorbg3 from "./assets/vector-bg-3.png";
+import vectorbg4 from "./assets/vector-bg-4.png"
 
 
 function AboutUs() {
