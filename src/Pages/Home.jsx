@@ -60,7 +60,7 @@ function Home() {
                 </div>
             </div>
         </section>
-        <section className="home-second section-padding">
+        <section className="home-second section-padding section-bg">
         <img src={vectorbg1} alt="vector-bg-1" className="vector-bg-1" />
         <img src={vectorbg2} alt="vector-bg-2" className="vector-bg-2" />
                 <div className="container">
