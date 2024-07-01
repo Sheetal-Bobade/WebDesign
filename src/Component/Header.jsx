@@ -15,7 +15,7 @@ function Header(){
                 <a href="/">Products & Services</a>
                 <a href="/">News</a>
                 <a href="/">Career</a>
-                <a href="/">Contact Us</a>
+                <a href="/contact-us">Contact Us</a>
             </nav>
         </div>
         </div>
